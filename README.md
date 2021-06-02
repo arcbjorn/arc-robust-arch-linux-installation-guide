@@ -8,7 +8,8 @@ This guide is a convenient combination of [Offical Arch Linux Installation Guide
 
 1-10 steps
 
-[ButterFS filesystem](https://btrfs.wiki.kernel.org/index.php/Main_Page) is used instead of ext4.
+- [BTRFS filesystem](https://btrfs.wiki.kernel.org/index.php/Main_Page)
+- [Pipewire](https://pipewire.org/)
 
 ### For full Desktop GUI
 
