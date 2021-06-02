@@ -14,7 +14,25 @@ This guide is a convenient combination of [Offical Arch Linux Installation Guide
 
 11 step
 
-...to be added.
+Minimal Desktop GUI installation (Xorg):
+
+- [i3-gaps](https://github.com/Airblader/i3) (Window manager)
+- [lightdm](https://github.com/canonical/lightdm) (Login manager)
+- [picom](https://github.com/yshui/picom) (Window compositor)
+- [rofi](https://github.com/davatorium/rofi) (App Launcher)
+- [dunst](https://github.com/dunst-project/dunst) (System notifications manager)
+- [lxappearance](https://archlinux.org/packages/community/x86_64/lxappearance/) (Theme customization)
+- [python-pywal](https://github.com/dylanaraps/pywal) (Theme color generator)
+- [nitrogen](https://github.com/l3ib/nitrogen) (Wallpaper manager)
+- [pcmanfm-qt](https://github.com/lxqt/pcmanfm-qt) (File manager)
+- [pass](https://www.passwordstore.org/) (Password manager)
+- [kitty](https://github.com/kovidgoyal/kitty) (Terminal emulator)
+- [neofetch](https://github.com/dylanaraps/neofetch) (CLI to display system specs)
+
+- [polybar](https://github.com/polybar/polybar) (Status bar)
+- [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) (Lockscreen)
+- [timeshift](https://github.com/teejee2008/timeshift) (System backup & restore tool)
+- [firefox-developer-edition](https://www.mozilla.org/en-US/firefox/developer/) (Mozilla Firefox browser)
 
 ### Installation
 
